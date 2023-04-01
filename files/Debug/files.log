@@ -1,0 +1,6 @@
+﻿  files.cpp
+C:\Users\user\source\repos\files\files.cpp(282,7): warning C4101: tres: неиспользованная локальная переменная
+C:\Users\user\source\repos\files\files.cpp(282,21): warning C4101: tend: неиспользованная локальная переменная
+C:\Users\user\source\repos\files\files.cpp(282,13): warning C4101: tstart: неиспользованная локальная переменная
+C:\Users\user\source\repos\files\files.cpp(309,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  files.vcxproj -> C:\Users\user\source\repos\files\Debug\files.exe

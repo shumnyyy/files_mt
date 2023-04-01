@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\files\Debug\files.exe
+C:\Users\user\source\repos\files\Debug\files.pdb
